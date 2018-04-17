@@ -14,7 +14,7 @@ inc:
   about_link:   https://sendtoinc.com/about/
   
   # Product Information
-  product_link: http://incorporated.sendtoinc.com/
+  product_link:  https://sazzad24x7.github.io/
   tagline:      "Get a modern blog for your company"
   
   # Comments
@@ -41,7 +41,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://incorporated.sendtoinc.com
+url:         https://sazzad24x7.github.io/
 source:      .
 destination: ./_site
 plugins:     ./_plugins
